@@ -23,9 +23,7 @@ body {
     font-weight: 400;
 }
 
-.ion-ios-close-outline:before {
-    content: "\f405";
-}
+
 
 .right { float: right; }
 .red { color: #FF5252 !important; }
